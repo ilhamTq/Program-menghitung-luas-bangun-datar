@@ -1,0 +1,5 @@
+***********File Handling************
+===Luas Persegi Panjang===
+Nilai Panjang sisi   : 8cm
+Nilai lebar sisi     : 6cm
+Luas persegi panjang : 48cm
